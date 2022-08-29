@@ -1,2 +1,2 @@
 # GITHUB-PRAC
-* This is a code that opens people github account
+* This is a code to search for  people github account
